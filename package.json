@@ -1,0 +1,19 @@
+{
+  "name": "datespot",
+  "version": "1.0.0",
+  "description": "A Tinder-like app that make's user's go offline quicker",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.15.2",
+    "parse": "^1.9.2",
+    "parse-server": "^2.3.6",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
